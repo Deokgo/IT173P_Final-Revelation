@@ -1,0 +1,1227 @@
+fileFormatVersion: 2
+guid: 928718d69391c7f4ea81676f4f69cbf4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_0
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1504
+        width: 138
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f3a53a920136a47a77bdedd1d114d1
+      internalID: -1360415851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_1
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1504
+        width: 152
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fbe8574a70ba345ab389ca5cb56bd7
+      internalID: 60230991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_2
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1749
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1df452309a6f0f46b45d41fe56a0812
+      internalID: 678154710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1504
+        width: 134
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635d6ec7ffce98346b53a68d98085e40
+      internalID: 1695654710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_4
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1504
+        width: 147
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f136e555a42f444bdd0e1ca9971903
+      internalID: 1301829925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_5
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1514
+        width: 163
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f8ebe45cfe41146b9cdc8dca15f09b
+      internalID: 1720913564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_6
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1682
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8d43701df63a641bb9900d32d0959b
+      internalID: -505364613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_7
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1514
+        width: 156
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07818ac535370e54c9bbc51da1606554
+      internalID: 729282373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_8
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1678
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c03fc2785e005488dfca3875990779
+      internalID: 240386234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_9
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1507
+        width: 163
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4aa4b3b5cceaf45b1fdbe9da37cc15
+      internalID: 681315027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_10
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1669
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cef281d7a832a4da9a1451aa719fa5
+      internalID: 1395324089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1256
+        width: 113
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b8890c82e24fa4fa4a42304478e2cb
+      internalID: -476672795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1493
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0e389c19167c44b99bba565f2cb5fa
+      internalID: -138339473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1256
+        width: 120
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23391c4326febd44ae5c0316901bffd
+      internalID: 1400997400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_14
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1256
+        width: 106
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d86ec999be234a49a80db1e166739f6
+      internalID: -582082009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_15
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1256
+        width: 127
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2ccbaac27289641af9953fd3129a58
+      internalID: 277017044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_16
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1255
+        width: 163
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82602e5e2883034bb95244fb83aa2fb
+      internalID: 1588006657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_17
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1255
+        width: 156
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93983ffd05fa494baeefd060be3acc4
+      internalID: 320413117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_18
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1248
+        width: 163
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bbfb5d6712f89488ffbcdce8fd9193
+      internalID: -547151461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 995
+        width: 128
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ca85c3b4d358c45b9061cf2133bbca
+      internalID: 1612532882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 993
+        width: 135
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2442ef840c3592449985063545079935
+      internalID: -1900043493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_21
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 999
+        width: 135
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea607699b6287745a95369edb5fa907
+      internalID: -1365747171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_22
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 978
+        width: 157
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0216aa74c2c1f4b89fc5e05c0d2cb8
+      internalID: -1240253513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_23
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1201
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0089262b4cd95cf47a5110a538ca9700
+      internalID: -1273729740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_24
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 991
+        width: 175
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5befc4c5334f3945a90c4d80e45fca6
+      internalID: -1724386522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_25
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 984
+        width: 157
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad9bc44d731b95408a912cb49c1a15e
+      internalID: 960669914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_26
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1166
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624b1cb9468e65144955ab22ed9255cb
+      internalID: -2043831232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 743
+        width: 135
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320e3554259af4646830aee3112a4177
+      internalID: -421129798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_28
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 743
+        width: 144
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d9ab38eff8c514ca7e2372377bd36c
+      internalID: 2147221050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_29
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 743
+        width: 128
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaeabcbb067a66f478ac5a6c601a7330
+      internalID: -198593217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_30
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 974
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d452839bce1cf4d9157229e44efc68
+      internalID: 1412896581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_31
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 722
+        width: 156
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f40bd00621980b45905e14d9cf65cd1
+      internalID: -1860376512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_32
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 907
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbfa92665e33d4438f68acf5b7c398d
+      internalID: -403204764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_33
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 725
+        width: 156
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8f3214afa8ea1418988c24dff34bc4
+      internalID: 792485814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_34
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 735
+        width: 167
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a57d912add83864c9b8d29ef4a347c6
+      internalID: 62340209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_35
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 893
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe4f87407298fa45bfeea6653e6c9f4
+      internalID: -1852336865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_36
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 860
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35885ee04ececff42bf57a7d5a3b0fb3
+      internalID: 1426015588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_37
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 594
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09eec1fb07565644a8c28d68e70996c0
+      internalID: 1053170268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_38
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 459
+        width: 119
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5addda969ff9dad4fadda9953ef797eb
+      internalID: 1548532936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_39
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 458
+        width: 113
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652425d543cb11246b7c0f76b3e3190b
+      internalID: 835418879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_40
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 601
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cc1409988351349bdf51b70e407b4f
+      internalID: -1045353415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_41
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 458
+        width: 107
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20c96a4c024e1d4c82398e182854013
+      internalID: 626845242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_42
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 566
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163d417056955dc4bbf15a8428770a5d
+      internalID: -1267368523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_43
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 451
+        width: 582
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcce65d25002b648a1a364795f1498f
+      internalID: 499394978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_44
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 476
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d863bc1400f32a438921cb17896e332
+      internalID: -1244895833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_45
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 459
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ef3e5d11799eb4dae40a9542458652
+      internalID: 2082249453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_46
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 488
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba9132b6e55e7445a28ee099eef0c1a
+      internalID: 2120006166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_47
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 188
+        width: 114
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee905fc3db69374a804774893ec23e2
+      internalID: 113224940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_48
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 259
+        width: 234
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb34ce0b4a93464b96ce577fdf2fff0
+      internalID: -362258225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG Elements Generator (2)_49
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 259
+        width: 647
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f5c8825fcc1ff4c9aecd5baa2ac9f9
+      internalID: 2079185899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PNG Elements Generator (2)_0: -1360415851
+      PNG Elements Generator (2)_1: 60230991
+      PNG Elements Generator (2)_10: 1395324089
+      PNG Elements Generator (2)_11: -476672795
+      PNG Elements Generator (2)_12: -138339473
+      PNG Elements Generator (2)_13: 1400997400
+      PNG Elements Generator (2)_14: -582082009
+      PNG Elements Generator (2)_15: 277017044
+      PNG Elements Generator (2)_16: 1588006657
+      PNG Elements Generator (2)_17: 320413117
+      PNG Elements Generator (2)_18: -547151461
+      PNG Elements Generator (2)_19: 1612532882
+      PNG Elements Generator (2)_2: 678154710
+      PNG Elements Generator (2)_20: -1900043493
+      PNG Elements Generator (2)_21: -1365747171
+      PNG Elements Generator (2)_22: -1240253513
+      PNG Elements Generator (2)_23: -1273729740
+      PNG Elements Generator (2)_24: -1724386522
+      PNG Elements Generator (2)_25: 960669914
+      PNG Elements Generator (2)_26: -2043831232
+      PNG Elements Generator (2)_27: -421129798
+      PNG Elements Generator (2)_28: 2147221050
+      PNG Elements Generator (2)_29: -198593217
+      PNG Elements Generator (2)_3: 1695654710
+      PNG Elements Generator (2)_30: 1412896581
+      PNG Elements Generator (2)_31: -1860376512
+      PNG Elements Generator (2)_32: -403204764
+      PNG Elements Generator (2)_33: 792485814
+      PNG Elements Generator (2)_34: 62340209
+      PNG Elements Generator (2)_35: -1852336865
+      PNG Elements Generator (2)_36: 1426015588
+      PNG Elements Generator (2)_37: 1053170268
+      PNG Elements Generator (2)_38: 1548532936
+      PNG Elements Generator (2)_39: 835418879
+      PNG Elements Generator (2)_4: 1301829925
+      PNG Elements Generator (2)_40: -1045353415
+      PNG Elements Generator (2)_41: 626845242
+      PNG Elements Generator (2)_42: -1267368523
+      PNG Elements Generator (2)_43: 499394978
+      PNG Elements Generator (2)_44: -1244895833
+      PNG Elements Generator (2)_45: 2082249453
+      PNG Elements Generator (2)_46: 2120006166
+      PNG Elements Generator (2)_47: 113224940
+      PNG Elements Generator (2)_48: -362258225
+      PNG Elements Generator (2)_49: 2079185899
+      PNG Elements Generator (2)_5: 1720913564
+      PNG Elements Generator (2)_6: -505364613
+      PNG Elements Generator (2)_7: 729282373
+      PNG Elements Generator (2)_8: 240386234
+      PNG Elements Generator (2)_9: 681315027
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
